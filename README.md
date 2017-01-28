@@ -39,7 +39,7 @@ So the point is ..i have not seen anybody good at this here :)..
 So read a lot..to ensure you can bluff enough..for your survival.. :)
 
 
-
+![alt tag](https://github.com/metasophy/books/blob/master/jcook.png)
 
 
 
