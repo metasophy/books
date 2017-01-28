@@ -12,14 +12,14 @@ think.java.zip
 
 Just need to learn 2 aspects ... 
 
-Fundamental:
+Fundamental: Problem Solving
 
 1. Problem Solving:
    Just solve the problem..using pen or on board ..whaterver..without thinking about any programming language..
    
 2. Use a Programming Language(java,c#,kotlin..anything) to convert your solution to executable code..
 
-Essential:
+Essential: Paradigms and Principles.
 
 1. A programming language paradim (OOPS, PROCEDURAL,FUNCTIONAL )
 2. Start Learning Design principles (SOLID, DRY, KISS, DIE , SLAP etc..)
